@@ -12,7 +12,7 @@ ___
 
 ___
 
-## Technical Concepts
+## 📚 Technical Concepts
 - **Include Directives:** The `#include <iostream>` preprocessor directive brings in the input/output stream library, which provides access to `cout` and other I/O functionality 
 - **Namespace:** The `using namespace std;` statement allows us to use standard library features without the `std::` prefix, streamlining the coding process
 - **Output Stream:** `cout` is the standard output stream that sends data to the console

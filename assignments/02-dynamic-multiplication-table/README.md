@@ -18,7 +18,7 @@ ___
 
 ___
 
-## Technical Concepts
+## 📚 Technical Concepts
 - **Double Pointers:** `int** ppTimesTable` uses a pointer to pointer structure to build the dynamic 2D array 
 - **Dynamic 2D Arrays:** created with a two-step allocation process:
   1. allocate an array of pointers (the rows): `ppTimesTable = new int*[rows]` 

@@ -14,7 +14,7 @@ ___
 
 ___
 
-## Technical Concepts
+## 📚 Technical Concepts
 - **API Calls and Handling:** call upon Windows-specific library to:
   1. change text colors with `SetConsoleTextAttribute()`
   2. clear the screen with `cls()` API
