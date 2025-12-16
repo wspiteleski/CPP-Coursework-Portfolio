@@ -34,7 +34,7 @@ ___
 ## 🚀 How to Compile and Run
 **For Bash:**
 ```bash
-# Navigate to the directory containing helloworld.cpp
+# Navigate to the directory containing dynamictable.cpp
 cd /path/to/your/file
 
 # Compile the program
