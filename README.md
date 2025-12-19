@@ -82,9 +82,9 @@ This repository showcases 10 assignments and 2 projects, demonstrating:
 ## 🧭 How to Navigate 
 
 Each assignment / project folder contains:
-- **README.md** - Detailed documentation
+- **README.md** - Detailed documentation with smaple output of expected program behavior 
 - **Source files** - Commented C++ code
-**Sample output** - Expected program behavior
+
 
 ---
 
