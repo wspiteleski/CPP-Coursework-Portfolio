@@ -35,7 +35,7 @@ This repository showcases 10 assignments and 2 projects, demonstrating:
 | 01 | [Hello World](./assignments/01-hello-world/) | Basic output, program structure | `helloworld.cpp` | ☑️ Available |
 | 02 | [Dynamic Multiplication Table](./assignments/02-dynamic-multiplication-table/) | 2D arrays, dynamic memory, input validation | `dynamictable.cpp` | ☑️ Available |
 | 03 | [Sliding Tile Puzzle](./assignments/03-sliding-tile-puzzle/) | 2D array, game logic, console manipulation | `SlidingTileGame` | ☑️ Available |
-| 04 | Prime/Composite Analyzer | Number theory, loops, conditionals | `PrimeCompositeDriver.cpp` | Coming Soon... |
+| 04 | [Prime/Composite Analyzer](./assignments/04-prime-composite-analyzer/) | Number theory, loops, conditionals | `PrimeCompositeDriver.cpp` | ☑️ Available  |
 | 05 | String Reverser | Recursion, pointers, string manipulation | `ReverseStringDriver.cpp` | Coming Soon... |
 | 06 | Triangle Calculator | OOP basics, classes, Pythagorean theorem | `triangleDriver.cpp`, `triangleIplementation.cpp`, `triangleSpecification.h` | Coming Soon... |
 | 07 | Lucas Jump Game | OOP, game state management, validation | `driver.cpp`, `implementation.cpp`, `specification.h` | Coming Soon... |
