@@ -49,8 +49,8 @@ This repository showcases 10 assignments and 2 projects, demonstrating:
 
 | # | Name | Description | Key Concepts | Status |
 |---|------|-------------|--------------|--------|
-| 01 | [Dynamic Sliding Puzzle](./projects/01-dynamic-sliding-puzzle/) | Scalable sliding puzzle with custom dimensions | OOP, dynamic 2d arrays, destructors, memory managment | Coming Soon... |
-| 02 | Sorting Algorithm Race | Performance comparison of bubble, selection, and insertion sorting | Algorithm analysis, file I/O, timing | ☑️ Available  |
+| 01 | [Dynamic Sliding Puzzle](./projects/01-dynamic-sliding-puzzle/) | Scalable sliding puzzle with custom dimensions | OOP, dynamic 2d arrays, destructors, memory managment | ☑️ Available  |
+| 02 | Sorting Algorithm Race | Performance comparison of bubble, selection, and insertion sorting | Algorithm analysis, file I/O, timing | Coming Soon...  |
 
 ---
 
