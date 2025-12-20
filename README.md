@@ -37,7 +37,7 @@ This repository showcases 10 assignments and 2 projects, demonstrating:
 | 03 | [Sliding Tile Puzzle](./assignments/03-sliding-tile-puzzle/) | 2D array, game logic, console manipulation | `SlidingTileGame` | ☑️ Available |
 | 04 | [Prime/Composite Analyzer](./assignments/04-prime-composite-analyzer/) | Number theory, loops, conditionals | `PrimeCompositeDriver.cpp` | ☑️ Available  |
 | 05 | [String Reverser](./assignments/05-string-reverser/) | Recursion, pointers, string manipulation | `ReverseStringDriver.cpp` | ☑️ Available  |
-| 06 | Triangle Calculator | OOP basics, classes, Pythagorean theorem | `triangleDriver.cpp`, `triangleIplementation.cpp`, `triangleSpecification.h` | Coming Soon... |
+| 06 | [Triangle Calculator](./assignments/06-triangle-calculator/) | OOP basics, classes, Pythagorean theorem | `triangleDriver.cpp`, `triangleIplementation.cpp`, `triangleSpecification.h` | ☑️ Available |
 | 07 | Lucas Jump Game | OOP, game state management, validation | `driver.cpp`, `implementation.cpp`, `specification.h` | Coming Soon... |
 | 08 | Vector Operations | Operator overloading, mathematical vectors | `Driver.cpp`, `Implementation.cpp`, `Specification.h` | Coming Soon... |
 | 09 | Fraction Calculator | Advanced overloading, GCD algorithm | `Driver.cpp`, `Implementation.cpp`, `Specification.h` |
