@@ -38,10 +38,10 @@ This repository showcases 10 assignments and 2 projects, demonstrating:
 | 04 | [Prime/Composite Analyzer](./assignments/04-prime-composite-analyzer/) | Number theory, loops, conditionals | `PrimeCompositeDriver.cpp` | ☑️ Available  |
 | 05 | [String Reverser](./assignments/05-string-reverser/) | Recursion, pointers, string manipulation | `ReverseStringDriver.cpp` | ☑️ Available  |
 | 06 | [Triangle Calculator](./assignments/06-triangle-calculator/) | OOP basics, classes, Pythagorean theorem | `triangleDriver.cpp`, `triangleIplementation.cpp`, `triangleSpecification.h` | ☑️ Available |
-| 07 | Lucas Jump Game | OOP, game state management, validation | `driver.cpp`, `implementation.cpp`, `specification.h` | Coming Soon... |
-| 08 | Vector Operations | Operator overloading, mathematical vectors | `Driver.cpp`, `Implementation.cpp`, `Specification.h` | Coming Soon... |
-| 09 | Fraction Calculator | Advanced overloading, GCD algorithm | `Driver.cpp`, `Implementation.cpp`, `Specification.h` |
-| 10 | Stopwatch | Time tracking, OOP design | `Driver.cpp`, `Implementation.cpp`, `Specification.h` | Coming Soon... |
+| 07 | [Lucas Jump Game](/assignments/07-lucas-jump-puzzle/) | OOP, game state management, validation | `driver.cpp`, `implementation.cpp`, `specification.h` | ☑️ Available |
+| 08 | [Vector Operations](/assignments/08-vector-calculator/) | Operator overloading, mathematical vectors | `Driver.cpp`, `Implementation.cpp`, `Specification.h` | ☑️ Available |
+| 09 | [Fraction Calculator](/assignments/09-fraction-calculator/) | Advanced overloading, GCD algorithm | `Driver.cpp`, `Implementation.cpp`, `Specification.h` |
+| 10 | [Stopwatch](/assignments/10-stopwatch/) | Time tracking, OOP design | `Driver.cpp`, `Implementation.cpp`, `Specification.h` | ☑️ Available |
 
 ---
 
@@ -50,7 +50,7 @@ This repository showcases 10 assignments and 2 projects, demonstrating:
 | # | Name | Description | Key Concepts | Status |
 |---|------|-------------|--------------|--------|
 | 01 | [Dynamic Sliding Puzzle](./projects/01-dynamic-sliding-puzzle/) | Scalable sliding puzzle with custom dimensions | OOP, dynamic 2d arrays, destructors, memory managment | ☑️ Available  |
-| 02 | Sorting Algorithm Race | Performance comparison of bubble, selection, and insertion sorting | Algorithm analysis, file I/O, timing | Coming Soon...  |
+| 02 | [Sorting Algorithm Race](/projects/02-sorting-algorithm-race/) | Performance comparison of bubble, selection, and insertion sorting | Algorithm analysis, file I/O, timing | ☑️ Available  |
 
 ---
 
